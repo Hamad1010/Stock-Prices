@@ -6,14 +6,13 @@ st.write("""
 ## AMAZON Stock prices
 """)
 
-# https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
-#define the ticker symbol
+
 tickerSymbol = 'AMZN'
-#get data on this ticker
+
 tickerData = yf.Ticker(tickerSymbol)
-#get the historical prices for this ticker
+
 tickerDf = tickerData.history(period='1d', start='2015-5-31', end='2020-1-31')
-# Open	High	Low	Close	Volume	Dividends	Stock Splits
+
 
 st.line_chart(tickerDf.High)
 st.line_chart(tickerDf.Low)
