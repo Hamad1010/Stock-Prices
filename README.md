@@ -1,4 +1,4 @@
-# Stock-Prices
+# Amazon-Stock-Prices
 
 Welcome everyone, 
 
