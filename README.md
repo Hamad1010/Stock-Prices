@@ -11,12 +11,13 @@ In this project is intersting and fachnating to me when i tried it. Let me expla
 Skills used:
 
 1-Streamlit 
-2-Data Analysis 
+2-Pamdas
+2-Python 
 
 Resuources used:
 
-1-Python library (streamlit)
-2-
+1-youtube.com
+2-towardsdatascience.com
 
 Notes:
 1- This is indivisiual contribution.
@@ -28,7 +29,8 @@ Let us start.
 
 1) We have to install streamlit in our device by using this command :
 
-![image](https://user-images.githubusercontent.com/36468428/193894986-3abae809-02b0-4d3f-92fd-86845796dc1b.png)
+![image](https://user-images.githubusercontent.com/36468428/194135765-f0ada3eb-b078-4ad4-9a3d-5eb37f123295.png)
+
 
 2) we have to install yfinance because we are dealing with stocks anyways:
 
@@ -69,7 +71,7 @@ Let us start.
 ![image](https://user-images.githubusercontent.com/36468428/194134901-a96881be-c6d9-4629-ad16-59fe5ce4d045.png)
 
 
-nice chart and interatvice. 
+Nice chart and interatvice. 
 
 
 
@@ -78,8 +80,6 @@ credits:
 Ritvik Kharkar from https://towardsdatascience.com/
 Chanin Nantasenamat from https://www.youtube.com/
 
-
-![image](https://user-images.githubusercontent.com/36468428/194127741-434766fc-aff0-43e4-9c5c-99ffd8b27135.png)
 
 
 
