@@ -5,7 +5,7 @@ Welcome everyone,
 In this project is intersting and fachnating to me when i tried it. Let me explain why. Here is our goals:
 
 1- We will be using python libraray web application called streamlit
-2-We will build data science web app 
+2- We will build data science web app 
 3- We will be using stock prices data 
 
 Skills used:
@@ -18,6 +18,8 @@ Resuources used:
 
 1-youtube.com
 2-towardsdatascience.com
+
+Completion Date: 19 Septempeter 2022
 
 Notes:
 1- This is indivisiual contribution.
